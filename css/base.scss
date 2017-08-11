@@ -8,10 +8,13 @@ and open the template in the editor.
     Author     : okli
 */
 
+@import "global/color.scss";
+@import "global/style.scss";
+
 @media (min-width: 576px) {
-  @import "global/style.scss";
+  @import "tablet/style.scss";
 }
 
 @media (min-width: 768px) {
-  @import "tablet/style.scss";
+  
 }
