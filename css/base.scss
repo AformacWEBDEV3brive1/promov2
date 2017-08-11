@@ -1,17 +1,10 @@
-/*
-To change this license header, choose License Headers in Project Properties.
-To change this template file, choose Tools | Templates
-and open the template in the editor.
-*/
-/* 
-    Created on : 11 août 2017, 14:20:07
-    Author     : okli
-*/
+
+@import "global/style.scss";
 
 @media (min-width: 576px) {
-  @import "global/style.scss";
+  @import "tablet/style.scss";
 }
 
 @media (min-width: 768px) {
-  @import "tablet/style.scss";
+  
 }
