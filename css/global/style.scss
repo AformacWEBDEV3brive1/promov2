@@ -7,9 +7,38 @@ and open the template in the editor.
     Created on : 11 août 2017, 14:21:24
     Author     : okli
 */
-
-div{
-    h1{
-        color:white;
+#includes_header{
+    div{
+        h1{
+            color:blue;
+            background-color: grey;
+        }
     }
+    div{
+        h2{
+            color:yellow;
+            background-color: black;
+        }
+    }
+    div{
+        label{
+            p{
+                color:pink;
+                background-color: purple;
+            }
+        }
+    }
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
 }
